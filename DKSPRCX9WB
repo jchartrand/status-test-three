@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://jchartrand.github.io/status-test-three/DKSPRCX9WB#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQ0AAAACIGf_0LbwAhoAAAAAAAAAAAAAAIC_AfqBUGnUMAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIJP_J_vCBDQAAAAAAAAAAAAAAAB_A6mC-tTUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
-  "issuanceDate": "2023-08-07T18:25:49.217Z",
+  "issuanceDate": "2023-08-08T12:10:01.008Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-08-07T18:25:49Z",
+    "created": "2023-08-08T12:10:01Z",
     "verificationMethod": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR#z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z2pWAtLLV4eBsPHVBawhHNSWiVpjptCRYUDAA59iDR3JQQjgtLJAsG7q7QNeT5pugrwseV3ZZK1CuHsrWKSgWAY4c"
+    "proofValue": "z2KjqfXrodNk51je6cjJjYgwYSWLtGHCtT4Wa7By1J6Pr99ZZDE82TDCEgAcB5NnWztmU4ou76myjC2CUoGSxFaLK"
   }
 }
